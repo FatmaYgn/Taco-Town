@@ -2,5 +2,4 @@
 
 ![taco-town](https://github.com/FatmaYgn/Taco-Town/assets/152922589/8584e482-11d6-415c-8936-9f16955e0ce0)
 
-Try now here: http://localhost:3000/
-Don't forget to install required npm packages.
+If you want to test it out, visit http://localhost:3000/ in your web browser. Don't forget to install the required npm packages in the terminal.
